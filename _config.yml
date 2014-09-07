@@ -1,0 +1,25 @@
+# Site settings
+title: Ken Haigh
+tagline: leadership, productivity, and technology
+description: a blog discussing leadership, productivity, and technology
+author:
+  name: Ken Haigh
+  twitter: khaigh
+  github: khaigh
+  repository: khaigh.github.io
+  facebook: ken.haigh
+  linkedin: kenhaigh
+url: http://khaigh.github.io
+production_url: http://khaigh.github.io
+baseurl: "/" # the subpath of your site, e.g. /blog/
+paginate:         5
+version:          1.0.0
+gems:
+  - jekyll-sitemap
+
+# Build settings
+markdown:         redcarpet
+pygments:         true
+permalink:        pretty
+
+exclude: ["node_modules", "gulpfile.js", "LICENSE.md", "package.json"]
