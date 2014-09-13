@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: http://khaigh.github.io/sitemap.xml
+Sitemap: http://www.kenhaigh.com/sitemap.xml

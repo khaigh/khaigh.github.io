@@ -9,8 +9,8 @@ author:
   repository: khaigh.github.io
   facebook: ken.haigh
   linkedin: kenhaigh
-url: http://khaigh.github.io
-production_url: http://khaigh.github.io
+url: http://www.kenhaigh.com
+production_url: http://www.kenhaigh.com
 baseurl: "/" # the subpath of your site, e.g. /blog/
 paginate:         5
 version:          1.0.0
