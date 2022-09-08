@@ -24,6 +24,7 @@ Good leaders are just and charitable towards others. Words like &#8220;charity&#
   
   <p>
     where <img src="/wp-content/ql-cache/quicklatex.com-0c4401c34d885cf9bd7f1d7f7e127004_l3.png" class="ql-img-inline-formula " alt="&#108;&#95;&#105;" title="Rendered by QuickLaTeX.com" height="13" width="8" style="vertical-align: -2px;" /> = leadership/influence, <img src="/wp-content/ql-cache/quicklatex.com-a9ff36b09a2337ff3bf2e0208d1b0005_l3.png" class="ql-img-inline-formula " alt="&#99;&#95;&#49;" title="Rendered by QuickLaTeX.com" height="10" width="11" style="vertical-align: -3px;" /> = charity, and <img src="/wp-content/ql-cache/quicklatex.com-7ad8671925f9de4156714b37761064fa_l3.png" class="ql-img-inline-formula " alt="&#106;" title="Rendered by QuickLaTeX.com" height="14" width="7" style="vertical-align: -3px;" /> = justice
+  </p>
 </div>
 
 Let&#8217;s take a look at why justice and charity matter.
