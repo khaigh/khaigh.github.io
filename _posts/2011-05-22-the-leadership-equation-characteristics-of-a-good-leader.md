@@ -23,6 +23,7 @@ There is no shortage of content written on leadership. A quick google search or 
   
   <p>
     where <img src="/wp-content/ql-cache/quicklatex.com-0c4401c34d885cf9bd7f1d7f7e127004_l3.png" class="ql-img-inline-formula " alt="&#108;&#95;&#105;" title="Rendered by QuickLaTeX.com" height="13" width="8" style="vertical-align: -2px;" /> = leadership/influence
+  </p>
 </div>
 
 Everyone can lead, though some should not. Being a good leader is hard and requires the right set of talent, skill, and character. Do you have what it takes to lead others?
