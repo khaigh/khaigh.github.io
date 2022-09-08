@@ -11,7 +11,7 @@ author:
   linkedin: kenhaigh
 url: http://kenhaigh.com
 production_url: http://kenhaigh.com
-baseurl: "http://kenhaigh.com/" # the subpath of your site, e.g. /blog/
+baseurl: "//kenhaigh.com/" # the subpath of your site, e.g. /blog/
 paginate:         5
 version:          1.0.0
 gems:
