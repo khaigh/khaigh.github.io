@@ -24,6 +24,7 @@ In the [previous post][1], we finished discussing the characteristics of a leade
   
   <p>
     where <img src="/wp-content/ql-cache/quicklatex.com-0c4401c34d885cf9bd7f1d7f7e127004_l3.png" class="ql-img-inline-formula " alt="&#108;&#95;&#105;" title="Rendered by QuickLaTeX.com" height="13" width="8" style="vertical-align: -2px;" /> = leadership/influence, <img src="/wp-content/ql-cache/quicklatex.com-39025c1cb2ccef7ed57e6ddd2c134610_l3.png" class="ql-img-inline-formula " alt="&#119;&#95;&#49;" title="Rendered by QuickLaTeX.com" height="10" width="15" style="vertical-align: -3px;" /> = wisdom, <img src="/wp-content/ql-cache/quicklatex.com-91e474a01f91b798d95d11b843142da9_l3.png" class="ql-img-inline-formula " alt="&#117;" title="Rendered by QuickLaTeX.com" height="7" width="8" style="vertical-align: 0px;" /> = understanding, and <img src="/wp-content/ql-cache/quicklatex.com-9d2978afa3b07afbb4ba6b273a61f811_l3.png" class="ql-img-inline-formula " alt="&#108;" title="Rendered by QuickLaTeX.com" height="11" width="4" style="vertical-align: 0px;" /> = learning
+  </p>
 </div>
 
 Wisdom is hard to define. The reason is that wisdom is difficult to quantify and it is elusive. We know it when we see it, though. Philosophers (lovers of wisdom) and authors over the ages have contributed their own interpretations. I don&#8217;t claim authority in my definition or have the space in this blog to produce a volume on wisdom.
