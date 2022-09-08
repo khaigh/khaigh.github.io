@@ -23,6 +23,7 @@ In the [last post][1], I discussed how good leaders maximize their influence of 
   
   <p>
     where <img src="/wp-content/ql-cache/quicklatex.com-0c4401c34d885cf9bd7f1d7f7e127004_l3.png" class="ql-img-inline-formula " alt="&#108;&#95;&#105;" title="Rendered by QuickLaTeX.com" height="13" width="8" style="vertical-align: -2px;" /> = leadership/influence, <img src="/wp-content/ql-cache/quicklatex.com-1202daca1883d7e6626be304821f78e6_l3.png" class="ql-img-inline-formula " alt="&#105;&#95;&#49;" title="Rendered by QuickLaTeX.com" height="14" width="10" style="vertical-align: -3px;" /> = integrity, and <img src="/wp-content/ql-cache/quicklatex.com-bfc60e817be9a5a218f8c13a616d007e_l3.png" class="ql-img-inline-formula " alt="&#116;" title="Rendered by QuickLaTeX.com" height="10" width="5" style="vertical-align: 0px;" /> = truthfulness
+  </p>
 </div>
 
 <!--more-->

@@ -23,6 +23,7 @@ We have reached our final leadership characteristic. Good leaders not only give 
   
   <p>
     where <img src="/wp-content/ql-cache/quicklatex.com-0c4401c34d885cf9bd7f1d7f7e127004_l3.png" class="ql-img-inline-formula " alt="&#108;&#95;&#105;" title="Rendered by QuickLaTeX.com" height="13" width="8" style="vertical-align: -2px;" /> = leadership/influence and <img src="/wp-content/ql-cache/quicklatex.com-6ef835e6af7dc6a91dd8a74557b70642_l3.png" class="ql-img-inline-formula " alt="&#99;&#95;&#50;" title="Rendered by QuickLaTeX.com" height="9" width="12" style="vertical-align: -2px;" /> = counsel
+  </p>
 </div>
 
 Vision is rarely developed in a vacuum. As Proverbs 15:22 states,

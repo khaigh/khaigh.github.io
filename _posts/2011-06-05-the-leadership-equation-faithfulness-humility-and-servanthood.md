@@ -26,6 +26,7 @@ In the [previous post][1], we discussed the importance of the foundational chara
   
   <p>
     where <img src="/wp-content/ql-cache/quicklatex.com-0c4401c34d885cf9bd7f1d7f7e127004_l3.png" class="ql-img-inline-formula " alt="&#108;&#95;&#105;" title="Rendered by QuickLaTeX.com" height="13" width="8" style="vertical-align: -2px;" /> = leadership/influence, <img src="/wp-content/ql-cache/quicklatex.com-b965a74dd7e5c98553a5c1114deb15db_l3.png" class="ql-img-inline-formula " alt="&#102;" title="Rendered by QuickLaTeX.com" height="14" width="9" style="vertical-align: -3px;" /> = faithfulness, <img src="/wp-content/ql-cache/quicklatex.com-5b9365d638e7fd00c636962894a6ada3_l3.png" class="ql-img-inline-formula " alt="&#104;" title="Rendered by QuickLaTeX.com" height="11" width="8" style="vertical-align: 0px;" /> = humility, and <img src="/wp-content/ql-cache/quicklatex.com-073a3fe8ccf9a6e2eb2d998f30601571_l3.png" class="ql-img-inline-formula " alt="&#115;&#95;&#49;" title="Rendered by QuickLaTeX.com" height="10" width="12" style="vertical-align: -3px;" /> = servanthood
+  </p>
 </div>
 
 Instead of describing each characteristic and the impact, we will move from the theoretical to a real-world example, and discuss the person who is credited for Southwest Airlines corporate culture and results &#8211; Colleen Barrett. Barrett was the President and COO of Southwest Airlines until 2008.

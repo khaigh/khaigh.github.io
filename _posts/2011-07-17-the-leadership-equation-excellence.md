@@ -24,6 +24,7 @@ In addition to [wisdom][1] and [self-control][2], we will look at a third import
 
   <p>
     where <img src="/wp-content/ql-cache/quicklatex.com-0c4401c34d885cf9bd7f1d7f7e127004_l3.png" class="ql-img-inline-formula " alt="&#108;&#95;&#105;" title="Rendered by QuickLaTeX.com" height="13" width="8" style="vertical-align: -2px;" /> = leadership/influence and <img src="/wp-content/ql-cache/quicklatex.com-7e16f2e2cf3c3cf8ceb3b2e17874dc47_l3.png" class="ql-img-inline-formula " alt="&#101;" title="Rendered by QuickLaTeX.com" height="7" width="7" style="vertical-align: 0px;" /> = excellence
+  </p>
 </div>
 
 Good leaders demonstrate and expect excellence in everything. Everything includes both who they are (inward character) and what they do (actions.) If a task is worth doing, then a good leader does the task right and with full effort.

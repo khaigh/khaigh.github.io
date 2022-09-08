@@ -26,6 +26,7 @@ We have now looked at [Truthfulness, Integrity][1], [Faithfulness, Humility, Ser
   
   <p>
     where <img src="/wp-content/ql-cache/quicklatex.com-0c4401c34d885cf9bd7f1d7f7e127004_l3.png" class="ql-img-inline-formula " alt="&#108;&#95;&#105;" title="Rendered by QuickLaTeX.com" height="13" width="8" style="vertical-align: -2px;" /> = leadership/influence
+  </p>
 </div>
 
 When considering these characteristics, my tendency is to compare myself and other leaders against the high bar that has been set through the course of the series. My conclusion is that I often fall short of this bar and I am hard pressed to find any person who could clear the bar. As a result, I am ready to move onto a different topic &#8211; too intense, too much reflection.

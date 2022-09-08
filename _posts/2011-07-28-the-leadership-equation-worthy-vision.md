@@ -25,6 +25,7 @@ Much has been written about the importance of vision for a leader. When a leader
   
   <p>
     where <img src="/wp-content/ql-cache/quicklatex.com-0c4401c34d885cf9bd7f1d7f7e127004_l3.png" class="ql-img-inline-formula " alt="&#108;&#95;&#105;" title="Rendered by QuickLaTeX.com" height="13" width="8" style="vertical-align: -2px;" /> = leadership/influence and <img src="/wp-content/ql-cache/quicklatex.com-5123a9c3ae3666cc16c9d86524b0edce_l3.png" class="ql-img-inline-formula " alt="&#119;&#95;&#50;" title="Rendered by QuickLaTeX.com" height="9" width="16" style="vertical-align: -2px;" /> = worthy vision
+  </p>
 </div>
 
 So what makes a vision worthy? Merriam-Webster defines worthy as &#8220;having worth or value&#8221;. This definition is not exactly helpful. For many organizations and corporations, one could observe that a worthy vision is a vision that has economic or financial value for its stakeholders.

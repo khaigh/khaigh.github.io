@@ -24,6 +24,7 @@ In the [last leadership post][1], we discussed the importance of wisdom, learnin
 
   <p>
     where <img src="/wp-content/ql-cache/quicklatex.com-0c4401c34d885cf9bd7f1d7f7e127004_l3.png" class="ql-img-inline-formula " alt="&#108;&#95;&#105;" title="Rendered by QuickLaTeX.com" height="13" width="8" style="vertical-align: -2px;" /> = leadership/influence and <img src="/wp-content/ql-cache/quicklatex.com-5e731495bf3efc159910dc3884b5e69d_l3.png" class="ql-img-inline-formula " alt="&#115;&#95;&#51;" title="Rendered by QuickLaTeX.com" height="9" width="13" style="vertical-align: -2px;" /> = self-control
+  </p>
 </div>
 <p>
 

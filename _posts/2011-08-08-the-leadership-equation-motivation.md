@@ -23,6 +23,7 @@ Previously, we discussed the importance of casting vision as a leader and what m
   
   <p>
     where <img src="/wp-content/ql-cache/quicklatex.com-0c4401c34d885cf9bd7f1d7f7e127004_l3.png" class="ql-img-inline-formula " alt="&#108;&#95;&#105;" title="Rendered by QuickLaTeX.com" height="13" width="8" style="vertical-align: -2px;" /> = leadership/influence and <img src="/wp-content/ql-cache/quicklatex.com-357f857e4b63dde25613e6d97cd4b70d_l3.png" class="ql-img-inline-formula " alt="&#109;&#95;&#49;" title="Rendered by QuickLaTeX.com" height="10" width="18" style="vertical-align: -3px;" /> = motivation
+  </p>
 </div>
 
 Good leaders recognize that true motivation occurs when a person is persuaded to take action towards a vision that is aligned with their personal interest and intrinsic motivation. Manipulation occurs when a person is persuaded to take action for the primary benefit of a leader and does not address a person&#8217;s intrinsic motivation.
